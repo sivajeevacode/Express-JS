@@ -1,0 +1,24 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+body
+{
+    width: 100%;
+    height: 100vh;
+}
+h1
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: blueviolet;
+}
+
+h2
+{
+    color: cadetblue;
+}
